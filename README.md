@@ -22,14 +22,11 @@
 
 ---
 
-when i first started this course, i didn’t know what to expect. the name itself sounded a bit intimidating. but as we went through the topics, i realized how foundational discrete structure is, not just for computer science but for problem-solving in general.
+The Discrete Structure course has been a key part of building my understanding of problem-solving in computer science. I learned about topics like set theory, logic, and proof techniques, which help in breaking down and solving problems step by step.
 
-one of the things i appreciated the most was how logical everything felt. topics like set theory, logic, and proof techniques were like building blocks, helping me think more clearly and systematically. at first, truth tables and logical equivalences were challenging, but with practice, they started to make sense—and i even started enjoying solving them.
+One of the most interesting parts was graph theory, where I explored concepts like shortest paths and connectivity that apply to real-world systems like networks and navigation. Although some topics, like recursion and proofs, were challenging at first, they became easier with practice.
 
-graph theory stood out to me because it felt very applicable to the real world. understanding things like shortest paths or connectivity made me realize how these concepts are used in things like navigation apps or even social networks.
-
-more than anything, this course taught me patience and the importance of breaking problems into smaller, manageable pieces. it also showed me that making mistakes is part of the process—as long as i keep trying, i’ll eventually figure things out.
-
+This course has helped me think more logically and systematically, giving me a strong foundation for more advanced studies in computer science.
 
 
 
