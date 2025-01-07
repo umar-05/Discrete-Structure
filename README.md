@@ -20,7 +20,10 @@
 
 ### Chapter 6: Finite Automata
 
+---
 
+In this course, I learned the important mathematics needed in the computer world such as graphs and probabilities among other topics as given above.
+This can help me to code more complex software as needed by clients or my lecturers so that it can function to do anything.
 
 
 
